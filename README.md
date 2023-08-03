@@ -1,0 +1,1 @@
+# CNN-camera-trap-project
